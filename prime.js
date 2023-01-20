@@ -1,4 +1,4 @@
-for (var a=2;a<=10;a++)
+for (var a=2;a<=100;a++)
 {
     var b = 5;
     for(var i=2;i<= a;i++)
